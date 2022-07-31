@@ -1,0 +1,30 @@
+---
+- students:
+     - name: raju
+       phno: 888888888
+       address: 
+        doorNO: 570
+        streerno: 1
+        pincode: 411041
+
+     - name: shiva
+       phno: 99999999
+       address: 
+        doorNO: 571
+        streerno: 2
+        pincode: 411041
+
+
+
+     - name: sai
+       phno: 777777777
+       address: 
+        doorNO: 572
+        streerno: 3
+        pincode: 411041
+
+
+
+
+
+
