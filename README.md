@@ -1,2 +1,1 @@
-# my_ansible02july
-# my_ansible02july
+# ANSIBLE_02JULY
