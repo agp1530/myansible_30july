@@ -1,5 +1,0 @@
----
-- hosts: all 
-  apt:
-    name: i want to install webserver on ubuntu16 ansible
-    state: present
